@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @skojr (they/ them)
+- 👋 Hi, I’m @skojr : )
 - 👀 I’m interested in web development, open source software, and everything else I can get my hands on!
 - 🌱 I’m currently learning Javascript and creating awesome API's.
-- 💞️ I'll be ready to collaborate in the near future.
+- 💞️ I'm looking to collaborate on FOSS projects.
 - 📫 You can reach me at jdevnet@protonmail.com
 
 <!---
