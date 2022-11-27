@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skojr : )
+- 👋 Hi, I’m @skeoj : )
 - 👀 I’m interested in web development, open source software, and everything else I can get my hands on!
 - 🌱 I’m currently learning Javascript and creating awesome API's.
 - 💞️ I'm looking to collaborate on smaller FOSS projects.
