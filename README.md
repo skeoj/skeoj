@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skeoj!
 - 👀 I’m interested in web development, open source software, and privacy-centered technology.
 - 🌱 I’m currently learning Javascript and creating awesome API's.
-- 💞️ I'm looking to collaborate on non-profit and open source projects.
+- 💞️ I'm looking to collaborate on non-profit, libre, or other great projects!
 - 📫 You can reach me at skeoj@protonmail.com and I'll get back to you shortly.
 
 <!---
