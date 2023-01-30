@@ -2,11 +2,8 @@
 - 👀 I’m interested in web development, open source software, and privacy-centered technology.
 - 🌱 I’m currently learning Javascript and creating awesome API's.
 - 💞️ I'm looking to collaborate on non-profit, libre, or other great projects!
+- 🧱 Geometric patterns in my commit history are purely coincidental.
 - 📫 You can reach me at skeoj@protonmail.com and I'll get back to you shortly.
-
-
-Note:
-- 🧱 Geometric patterns in my commit history are coincidental.
 
 <!---
 skojr/skojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
