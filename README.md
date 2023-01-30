@@ -4,6 +4,9 @@
 - 💞️ I'm looking to collaborate on non-profit, libre, or other great projects!
 - 📫 You can reach me at skeoj@protonmail.com and I'll get back to you shortly.
 
+Note:
+- 🧱 Geometric patterns in my commit history are coincidental. Probably.
+
 <!---
 skojr/skojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
