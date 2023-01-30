@@ -5,7 +5,7 @@
 - 📫 You can reach me at skeoj@protonmail.com and I'll get back to you shortly.
 
 Note:
-- 🧱 Geometric patterns in my commit history are coincidental. Probably.
+- 🧱 Geometric patterns in my commit history are coincidental.
 
 <!---
 skojr/skojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
