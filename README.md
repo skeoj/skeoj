@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @skeoj!
-- 👀 I’m interested in web development, open source software, and privacy-centered technology.
-- 🌱 I’m currently learning Javascript and creating awesome API's.
-- 💞️ I'm looking to collaborate on non-profit, libre, or other great projects!
+- 👋 Hi, I’m @skeoj! Meditator, yogi, and software engineer.
 - 🧱 Geometric patterns in my commit history are purely coincidental.
-- 📫 You can reach me at skeoj@protonmail.com and I'll get back to you shortly.
+- 👀 I’m interested in web development, open source software, and privacy-centered technology.
+- 🌱 Currently learning Javascript and making API's for full-stack web dev.
+- 💞️ I'd love to collaborate on non-profit, libre projects!
+- 📫 Reach me at skeoj@protonmail.com and I'll get back to you shortly.
 
 <!---
 skojr/skojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
