@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skeoj! Meditator, yogi, and software engineer.
 - 🧱 Geometric patterns in my commit history are purely coincidental.
 - 👀 I’m interested in web development, open source software, and privacy-centered technology.
-- 🌱 Currently learning Javascript and making API's for full-stack web dev.
-- 💞️ I'd love to collaborate on non-profit, libre projects!
+- 🌱 Currently learning Javascript and making API's for full-stack web apps.
+- 💞️ I'd love to collaborate on libre projects!
 - 📫 Reach me at skeoj@protonmail.com and I'll get back to you shortly.
 
 <!---
