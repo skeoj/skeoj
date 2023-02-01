@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skeoj! Meditator, yogi, and software engineer.
+- 👋 Hi, I’m @skeoj!
 - 🧱 (Geometric patterns in commit history are purely coincidental.)
 - 👀 I’m interested in web development, open source software, and privacy-centered technology.
 - 🌱 I'm currently learning Javascript and making API's for full-stack web apps.
