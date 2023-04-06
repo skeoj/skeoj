@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development, open source software, and privacy-centered technology.
 - 🌱 I'm currently learning Javascript and making API's for full-stack web apps.
 - 💞️ I'd love to collaborate on libre and community-centered projects!
-- 📫 Reach me at skeoj@protonmail.com and I'll get back to you shortly
+- 📫 You can reach me at skeoj@protonmail.com.
 
 <!---
 skojr/skojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
